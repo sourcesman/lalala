@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<title>评价表</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>老师是否迟到</td>
+			<td>
+				<input type="radio" name="a1" />A
+				<input type="radio" name="a1" />B
+				<input type="radio" name="a1" />C
+				<input type="radio" name="a1" />D
+			</td>
+		</tr>
+		<tr>
+			<td>老师是否玩手机</td>
+			<td>
+				<input type="radio" name="a2" />A
+				<input type="radio" name="a2" />B
+				<input type="radio" name="a2" />C
+				<input type="radio" name="a2" />D
+			</td>
+		</tr>
+		<tr>
+			<td>上课问题老师能不能帮解决</td>
+			<td>
+				<input type="radio" name="a3" />A
+				<input type="radio" name="a3" />B
+				<input type="radio" name="a3" />C
+				<input type="radio" name="a3" />D
+			</td>
+		</tr>
+		<tr>
+			<td>老师专业素质</td>
+			<td>
+				<input type="radio" name="a4" />A
+				<input type="radio" name="a4" />B
+				<input type="radio" name="a4" />C
+				<input type="radio" name="a4" />D
+			</td>
+		</tr>
+		<tr>
+			<td>老师讲课态度</td>
+			<td>
+				<input type="radio" name="a5" />A
+				<input type="radio" name="a5" />B
+				<input type="radio" name="a5" />C
+				<input type="radio" name="a5" />D
+			</td>
+		</tr>
+		<tr>
+			<td>老师评价</td>
+			<td><textarea name="" id="" cols="30" rows="10"></textarea></td>
+		</tr>
+		<tr>
+			<td>爱创建议</td>
+			<td><textarea name="" id="" cols="30" rows="10"></textarea></td>
+		</tr>
+	</table>
+</body>
+</html>
